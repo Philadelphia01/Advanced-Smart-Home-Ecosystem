@@ -1,0 +1,24 @@
+HOME,My Smart Home
+ROOM,Living Room
+LIGHT,Ceiling Light,0,80
+LIGHT,Floor Lamp,0,50
+THERMOSTAT,Living Room Thermostat,0,22
+SPEAKER,Home Theatre Speaker,0,40
+TV,Living Room TV,0,5,30,HDMI 1
+ROOM,Bedroom
+LIGHT,Bedside Lamp,0,30
+THERMOSTAT,Bedroom Thermostat,0,20
+SPEAKER,Bluetooth Speaker,0,25
+TV,Bedroom TV,0,3,15,HDMI 1
+ROOM,Kitchen
+LIGHT,Kitchen Light,0,100
+SPEAKER,Kitchen Radio,0,35
+ROOM,Garage
+CAMERA,Front Door Camera,0
+CAMERA,Garage Camera,0
+LIGHT,Garage Light,0,70
+DOORLOCK,Garage Door Lock,0,1
+ROOM,Entry Hall
+DOORLOCK,Front Door Lock,0,1
+ALARM,Home Alarm System,0,0
+CAMERA,Entry Hall Camera,0
